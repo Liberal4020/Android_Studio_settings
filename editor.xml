@@ -1,9 +1,9 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Source Han Code JP" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="R" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="B" />
+    <option name="FONT_FAMILY" value="Hiragino Kaku Gothic Pro" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="W3" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="W6" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
